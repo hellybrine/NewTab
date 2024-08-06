@@ -100,20 +100,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Get Up! Mix',
+					link: 'https://music.apple.com/in/playlist/get-up-mix/pl.pm-01ed408c735a7f333993a3764232fb80',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'New Music',
+					link: 'https://music.apple.com/in/playlist/new-music-mix/pl.pm-01ed408c735a7f3315a49cf63431eb3f',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Chill',
+					link: 'https://music.apple.com/in/playlist/chill-mix/pl.pm-01ed408c735a7f33d41fef0099221c67',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Favs',
+					link: 'https://music.apple.com/in/library/playlist/p.4lUxlOOORz?l=en-GB',
 				},
 			],
 		},
