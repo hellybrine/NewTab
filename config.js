@@ -59,21 +59,21 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://music.apple.com/us/browse',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'HackTheBox',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://academy.hackthebox.com/dashboard',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Hashnode',
+			icon: 'pen-tool',
+			link: 'https://hashnode.com/',
 		},
 		{
 			id: '5',
@@ -85,46 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-	],
-
-	secondButtonsContainer: [
-		{
-			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
-		},
-		{
-			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
-		},
-		{
-			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
-		},
-		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		},
-		{
-			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
